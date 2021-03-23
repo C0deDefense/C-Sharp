@@ -1,0 +1,14 @@
+G:\C sharp\1-23-2021 Ch1 Getting Started\QandA\QandA\bin\Debug\QandA.exe.config
+G:\C sharp\1-23-2021 Ch1 Getting Started\QandA\QandA\bin\Debug\QandA.exe
+G:\C sharp\1-23-2021 Ch1 Getting Started\QandA\QandA\bin\Debug\QandA.pdb
+G:\C sharp\1-23-2021 Ch1 Getting Started\QandA\QandA\obj\Debug\QandA.csprojAssemblyReference.cache
+G:\C sharp\1-23-2021 Ch1 Getting Started\QandA\QandA\obj\Debug\QandA.Form1.resources
+G:\C sharp\1-23-2021 Ch1 Getting Started\QandA\QandA\obj\Debug\QandA.Properties.Resources.resources
+G:\C sharp\1-23-2021 Ch1 Getting Started\QandA\QandA\obj\Debug\QandA.csproj.GenerateResource.cache
+G:\C sharp\1-23-2021 Ch1 Getting Started\QandA\QandA\obj\Debug\QandA.csproj.CoreCompileInputs.cache
+G:\C sharp\1-23-2021 Ch1 Getting Started\QandA\QandA\obj\Debug\QandA.exe
+G:\C sharp\1-23-2021 Ch1 Getting Started\QandA\QandA\obj\Debug\QandA.pdb
+G:\C sharp\1-23-2021 Ch1 Getting Started\QandA\QandA\bin\Debug\QandA.exe.manifest
+G:\C sharp\1-23-2021 Ch1 Getting Started\QandA\QandA\bin\Debug\QandA.application
+G:\C sharp\1-23-2021 Ch1 Getting Started\QandA\QandA\obj\Debug\QandA.exe.manifest
+G:\C sharp\1-23-2021 Ch1 Getting Started\QandA\QandA\obj\Debug\QandA.application
